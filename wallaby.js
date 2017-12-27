@@ -1,7 +1,7 @@
 module.exports = function () {
 
   return {
-    files: ['sum.js'],
+    files: ['sum.js', '__tests__/**/*.snap'],
 
     tests: ['__tests__/*.js'],
 
