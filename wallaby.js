@@ -12,7 +12,7 @@ module.exports = function () {
         runner: '--harmony'
       }
     },
-
+      
     testFramework: 'jest'
 
     //setup: function (wallaby) {
